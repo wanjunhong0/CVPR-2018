@@ -5,6 +5,7 @@
 
 [作者知乎解读](https://zhuanlan.zhihu.com/p/38425434)
 
+<br/>
 
 ### Video & ReID
 
@@ -30,6 +31,8 @@
 
 [Attention-Aware Compositional Network for Person Re-Identification](http://openaccess.thecvf.com/content_cvpr_2018/html/Xu_Attention-Aware_Compositional_Network_CVPR_2018_paper.html)
 
+<br/>
+
 ### Detection
 
 [Scale-Transferrable Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Scale-Transferrable_Object_Detection_CVPR_2018_paper.html)
@@ -42,6 +45,8 @@
 
 [Learning to Localize Sound Source in Visual Scenes](http://openaccess.thecvf.com/content_cvpr_2018/html/Senocak_Learning_to_Localize_CVPR_2018_paper.html)
 
+<br/>
+
 ### Caption
 
 [Convolutional Image Captioning](http://openaccess.thecvf.com/content_cvpr_2018/html/Aneja_Convolutional_Image_Captioning_CVPR_2018_paper.html)
@@ -49,6 +54,8 @@
 [GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.html)
 
 [Fine-Grained Video Captioning for Sports Narrative](http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.html)
+
+<br/>
 
 ### Text
 
