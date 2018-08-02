@@ -49,3 +49,27 @@
 
 [Fine-Grained Video Captioning for Sports Narrative](http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.html)
 
+### Text
+
+- Detection
+
+[Rotation-Sensitive Regression for Oriented Scene Text Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Liao_Rotation-Sensitive_Regression_for_CVPR_2018_paper.html)
+
+[Geometry-Aware Scene Text Detection With Instance Transformation Network](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Geometry-Aware_Scene_Text_CVPR_2018_paper.html)
+
+- Recognition-EP
+
+[Edit Probability for Scene Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/html/Bai_Edit_Probability_for_CVPR_2018_paper.html)
+
+- Recognition-AON
+
+[AON: Towards Arbitrarily-Oriented Text Recognition](http://openaccess.thecvf.com/content_cvpr_2018/html/Cheng_AON_Towards_Arbitrarily-Oriented_CVPR_2018_paper.html)
+
+- End-End-FOTS
+
+[FOTS: Fast Oriented Text Spotting With a Unified Network](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_FOTS_Fast_Oriented_CVPR_2018_paper.html)
+
+- End-End-TextSpotter
+
+[An End-to-End TextSpotter With Explicit Alignment and Attention](http://openaccess.thecvf.com/content_cvpr_2018/html/He_An_End-to-End_TextSpotter_CVPR_2018_paper.html)
+
