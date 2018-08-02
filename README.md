@@ -21,3 +21,31 @@
 
 - ReID
 
+[Diversity Regularized Spatiotemporal Attention for Video-Based Person Re-Identification](http://openaccess.thecvf.com/content_cvpr_2018/html/Li_Diversity_Regularized_Spatiotemporal_CVPR_2018_paper.html)
+
+[Person Re-Identification With Cascaded Pairwise Convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Person_Re-Identification_With_CVPR_2018_paper.html)
+
+[Efficient and Deep Person Re-Identification Using Multi-Level Similarity](http://openaccess.thecvf.com/content_cvpr_2018/html/Guo_Efficient_and_Deep_CVPR_2018_paper.html)
+
+[Attention-Aware Compositional Network for Person Re-Identification](http://openaccess.thecvf.com/content_cvpr_2018/html/Xu_Attention-Aware_Compositional_Network_CVPR_2018_paper.html)
+
+### Detection
+
+[Scale-Transferrable Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Scale-Transferrable_Object_Detection_CVPR_2018_paper.html)
+
+[Cascade R-CNN: Delving Into High Quality Object Detection](http://openaccess.thecvf.com/content_cvpr_2018/html/Cai_Cascade_R-CNN_Delving_CVPR_2018_paper.html)
+
+[Weakly Supervised Instance Segmentation Using Class Peak Response](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.html)
+
+[Adversarial Complementary Learning for Weakly Supervised Object Localization](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Adversarial_Complementary_Learning_CVPR_2018_paper.html)
+
+[Learning to Localize Sound Source in Visual Scenes](http://openaccess.thecvf.com/content_cvpr_2018/html/Senocak_Learning_to_Localize_CVPR_2018_paper.html)
+
+### Caption
+
+[Convolutional Image Captioning](http://openaccess.thecvf.com/content_cvpr_2018/html/Aneja_Convolutional_Image_Captioning_CVPR_2018_paper.html)
+
+[GroupCap: Group-Based Image Captioning With Structured Relevance and Diversity Constraints](http://openaccess.thecvf.com/content_cvpr_2018/html/Chen_GroupCap_Group-Based_Image_CVPR_2018_paper.html)
+
+[Fine-Grained Video Captioning for Sports Narrative](http://openaccess.thecvf.com/content_cvpr_2018/html/Yu_Fine-Grained_Video_Captioning_CVPR_2018_paper.html)
+
